@@ -1,2 +1,3 @@
-# curated-list-european-digital-rights-actors
-A curated list of digital rights actors in Europe.
+# A curated list of digital rights actors in Europe.
+
+- EDri: https://edri.org/. European Digital rights
